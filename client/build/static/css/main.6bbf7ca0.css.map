@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6bbf7ca0.css","mappings":"AAEA,qBAIE,WAAY,CACZ,UACF","sources":["index.css"],"sourcesContent":["\n\nhtml, \nbody, \n#root, \n.app {\n  height: 100%;\n  width: 100%;\n}\n"],"names":[],"sourceRoot":""}

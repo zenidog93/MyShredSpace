@@ -39,7 +39,7 @@ MongoDB is a flexible NoSQL database that can easily store and retrieve complex 
 <br>
 <img width="300" alt="Screenshot 2023-05-09 at 5 29 58 PM" src="https://github.com/zenidog93/MyShredSpace/assets/112600528/ddde33fd-71ef-4953-88ba-78fe6263e534">
 <br>
-5.) And of course, every programmer's must-have, "night mode"
+5.) And of course, every programmer's must-have, "dark mode"
 <br>
 <img width="300" alt="Screenshot 2023-05-09 at 5 32 53 PM" src="https://github.com/zenidog93/MyShredSpace/assets/112600528/9ceced2e-e9c0-429b-aa50-051f5528f6bf">
 <img width="300" alt="Screenshot 2023-05-09 at 5 33 19 PM" src="https://github.com/zenidog93/MyShredSpace/assets/112600528/7246bbf3-bbfe-4435-992f-6ae2588bc937">
